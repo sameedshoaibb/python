@@ -98,5 +98,22 @@ logging.info("The program has finished")
 #     exit()
 # else:
 # 	logging.info("THe script has run perfectly:")
+									#Another example
+# import logging 
+
+# #Create and configure the logger
+# LOG_FORMAT= "%(levelname)s %(asctime)s - %(message)s"
+# logging.basicConfig(filename="third_log.log",level=logging.DEBUG,format=LOG_FORMAT,filemode='w')
+# logger=logging.getLogger()
+
+# #Test messages
+# logger.debug("Thid is a debug message")
+# logger.info("This is a info message")
+# logger.warning("This is a warning message")
+# logger.error("This is an error message")
 
 
+ git status
+$ git add <file_name>
+$ git commit -m "<msg>"
+$ git push origin <branch_name>
