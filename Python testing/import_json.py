@@ -8,11 +8,11 @@ people_string='''
 	[
  		{
  		  "name":"sameed",
- 		  "phone":"03422020091"
+ 		  "phone":"xxxx"
  		},
  		{
  		  "name":"jawad",
- 		  "phone":"03452541419",
+ 		  "phone":"xxxx",
  		  "has_liscence": true
  		}
 	]
