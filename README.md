@@ -8,7 +8,7 @@ virtualenv .docker
 # Enable the virtual environment
 source .docker/bin/activate
 
-# to disable virtual env
+# To disable virtual env
 deactivate
 
 # To check dependencies
