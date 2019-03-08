@@ -26,5 +26,5 @@ pip install -r requirements.txt
 #To create virtual_env of a specific python version
 virtualenv -p /usr/bin/python2.7 pymongo_env
 source pymongo_env/bin/activate
-python --version
+python --versio
 
