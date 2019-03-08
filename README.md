@@ -4,9 +4,9 @@ War with Python has started
 #To create a python virtual environment
 
 #Create a python virtual environment
-virtualenv .docker
+virtualenv .python
 # Enable the virtual environment
-source .docker/bin/activate
+source .python/bin/activate
 
 # To disable virtual env
 deactivate
