@@ -1,7 +1,7 @@
 #!/bin/python
 """
-@developer saad arshad
-@date: Oct 2018
+@developer sameed
+@date: April 2019
 """
 
 import time
