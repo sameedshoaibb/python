@@ -1,6 +1,5 @@
 # python
 War with Python has started
-
 #To create a python virtual environment
 
 #Create a python virtual environment
