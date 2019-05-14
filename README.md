@@ -28,3 +28,5 @@ virtualenv -p /usr/bin/python2.7 pymongo_env
 source pymongo_env/bin/activate
 python --version
 
+Learning resources include:
+https://realpython.com/python-f-strings/
